@@ -30,4 +30,3 @@ A Flipkart/Myntra-style homepage with product cards, cart management, and order 
 - **Routing:** React Router DOM
 - **State Management:** Context API
 - **Version Control:** Git & GitHub
->>>>>>> 5ebdf40526449adac8b625475fe0a5af0d1dc266
