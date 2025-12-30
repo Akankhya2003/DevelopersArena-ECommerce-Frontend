@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Flipkart-style base */
+body {
+  background-color: #f1f3f6;
+  color: #212121;
+  font-family: Arial, Helvetica, sans-serif;
+}
